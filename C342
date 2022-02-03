@@ -1,0 +1,7 @@
+URL to n friends: 1 to n | 1, 2, 3, 4, 5, ..., n
+Friend number:  i
+visit website at most per friend: i times
+Counter C: keeping track of total number of visits
+Minimum value of C such that Bob can know that one of his friends has visited his/her maximum allowed number of times?
+
+n(n-1)/2 + 1

@@ -1,0 +1,3 @@
+The best way to determine if X and Y are in the same linked list, you need to go through the list circularly, and 
+check if x and y are in the list. To go through a linked list ciruclarly. You need to make sure the last node is
+linked to the first node. Then march through the list and keeping a tally if x and y are in the list. 

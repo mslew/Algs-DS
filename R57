@@ -1,0 +1,6 @@
+The way we can find the only repeating number in the list is to add every element in the list.
+Then you want to do some multiplication. Take the length of the list, subtract it by 1 and then multiply it by the total length of the list.
+Divide that number by two, then subtract from the total of every element in the list.
+It should look like this:
+(sum of the array) - (((length - 1) * length ) // 2)
+This should return the only repeating integer in the list.

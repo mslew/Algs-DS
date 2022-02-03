@@ -1,0 +1,2 @@
+If I were to reverse a linked list, I would go through each head recursively, loading each head onto a stack.
+Then I would load every item from the stack onto a linked list. Thus reversing the linked list.

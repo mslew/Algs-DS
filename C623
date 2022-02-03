@@ -1,0 +1,8 @@
+R = [1, 2, 3]
+S = [4, 5]
+T = [6, 7, 8, 9]
+
+S = [6, 7, 8, 9, 4, 5]
+
+In order to achieve the result that S stored all elements originally in T you will need to push all elements of T onto S. Because this is a stack you will need to go in reverse order.
+So you start at 9, then 8, then 7, then 6. Push those elements you should receive a new list of S as [6, 7, 8, 9, 4, 5]

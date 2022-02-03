@@ -1,0 +1,18 @@
+The value returned from the operations is 5 and 2.
+
+Add 5 [5]
+Add 3 [5, 3]
+Remove 3 [5]
+Add 2 [5, 2]
+Add 8 [5, 2, 8]
+Remove 8 [5, 2]
+Add 9 [5, 2, 9]
+Add 1 [5, 2, 9, 1]
+Remove 1  [5, 2, 9]
+Add 7 [5, 2, 9, 7]
+Add 6 [5, 2, 9, 7, 6]
+Remove 7 [5, 2, 9, 6]
+Remove 6 [5, 2, 9]
+Add 4 [5, 2, 9, 4]
+Remove 4 [5, 2, 9]
+Remove 9 [5, 2]

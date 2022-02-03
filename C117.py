@@ -1,0 +1,1 @@
+#Yes because in python you are able to explicitly write a for loop like that. You do NOT need to use the index.

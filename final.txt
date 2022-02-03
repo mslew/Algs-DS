@@ -1,0 +1,16 @@
+ 0 1 2 3  4  5  6  7  8  9  10 11|| Index 
+[4 9 8 17 26 50 16 19 69 32 93 55] 
+ 0 1 2 2  3  3  4  4  5  5  6  6 || Steps to get to immediate parent.
+       1  1  2  2  2  2  3  3  3 || Steps to get to parent after immediate parent.
+                   1  1  2  2  2 || Steps to reach final parent.     
+-----------------------------------
+0  1 2 3  4  5  6  7  8  10 11 11 
+
+12 Elements in the list. 
+
+[4 9 8 17 26 50 16 19 69]
+[69 19 16 50 26 17 8 9 4]
+
+9 elements in this list. 
+
+ 1 2 4 8 16 32 64 128 

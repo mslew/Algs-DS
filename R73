@@ -1,0 +1,4 @@
+# In order to count the number of nodes in a linked list what I would do is create a temporary linked list.
+# Copy the linked list into temp. Recuserisvely call the function by making a count of each time you remove a head.
+# Then once the list is empty you exit the function. You should keep count of how many times this process is looped
+# in order to determine the length. 
